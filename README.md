@@ -2,7 +2,7 @@
 
 A basic example/uploader for uploading to owo.what-th.is's image server. The aim was to have a script that allowed for users of all operating systems (that werent already supported by ShareX) to also be able to upload to whats-th.is related products. 
 
-Thank you to [jomo](https://github.com/jomo/) and his script [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot), to which snippits and borrowing code guided me to improving my own script. This script wouldnt be anywhere near what it is today without his efforts.
+Thank you to [jomo](https://github.com/jomo/) and his script [jomo/imgur-screenshot](https://github.com/jomo/imgur-screenshot), to which snippets and borrowing code guided me to improving my own script. This script wouldn't be anywhere near what it is today without his efforts.
 
 # Install
 
